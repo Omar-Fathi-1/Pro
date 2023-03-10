@@ -1,1 +1,1 @@
-alert("hi");
+alert("i'm hacker :)");
